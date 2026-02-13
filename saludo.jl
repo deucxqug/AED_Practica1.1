@@ -4,7 +4,3 @@ function saludar(nombre)
 end
 
 println(saludar("Estudiante"))
-
-function suma_dos_numeros(a, b)
-  return a + b
-end
